@@ -1,11 +1,10 @@
 import React from 'react';
-import Layout from '../components/layout/Layout';
 
 const Settings: React.FC = () => (
-  <Layout>
+  <div>
     <h2>Settings</h2>
     <p>Settings page placeholder.</p>
-  </Layout>
+  </div>
 );
 
 export default Settings;
